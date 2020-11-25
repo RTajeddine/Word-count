@@ -4,7 +4,7 @@
 
 These programs will count words in a given text, plot a bar chart of the 10
 most common words, and test [Zipf's
-law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words.
+law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words. 
 
 - Inspired by and derived from https://hpc-carpentry.github.io/hpc-python/
   which is distributed under
